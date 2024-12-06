@@ -27,19 +27,19 @@ Form Section:
 ### Lessons Learned
 This project helped reinforce several essential web development concepts:
 
-1. Semantic HTML:
+Semantic HTML:
 - Ensuring the document is correctly structured using appropriate tags like <section>, <header>, <footer>, and <table>.
 
-2. Attributes and Formatting:
+Attributes and Formatting:
 - Applying attributes such as colspan, rowspan, href, alt, width, and height to enhance functionality and accessibility.
 
-3. Media Embedding:
+Media Embedding:
 - Sourcing and embedding images using URLs while controlling dimensions for consistency.
 
-4. Form Elements:
+Form Elements:
 - Learning to use input types like text, radio, and checkboxes, as well as <select> for dropdowns.
 
-5. Version Control:
+Version Control:
 - Using Git commands to initialize, commit, and push changes to a remote repository, ensuring proper version management.
 
 ### Future Improvements
