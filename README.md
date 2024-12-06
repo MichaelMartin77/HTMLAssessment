@@ -28,7 +28,7 @@ Form Section:
 This project helped reinforce several essential web development concepts:
 
 Semantic HTML:
-- Ensuring the document is correctly structured using appropriate tags like <section>, <header>, <footer>, and <table>.
+- Ensuring the document is correctly structured using appropriate tags like section, header, footer, and table.
 
 Attributes and Formatting:
 - Applying attributes such as colspan, rowspan, href, alt, width, and height to enhance functionality and accessibility.
@@ -37,7 +37,7 @@ Media Embedding:
 - Sourcing and embedding images using URLs while controlling dimensions for consistency.
 
 Form Elements:
-- Learning to use input types like text, radio, and checkboxes, as well as <select> for dropdowns.
+- Learning to use input types like text, radio, and checkboxes, as well as "select" for dropdowns.
 
 Version Control:
 - Using Git commands to initialize, commit, and push changes to a remote repository, ensuring proper version management.
